@@ -6,4 +6,4 @@ pyyaml
 regex
 tensorflow==2.4.0
 tracery
-legendary
+legendary_gl>=0.20.1
