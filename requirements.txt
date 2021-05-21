@@ -4,6 +4,6 @@ numpy
 profanityfilter
 pyyaml
 regex
-tensorflow==2.4.0
+tensorflow==2.5.0
 tracery
 legendary_gl>=0.20.1
